@@ -1,1 +1,1 @@
-# Feasible_Prediction_Of_Multiple_Diseases
+# Multiple_Disease_Prediction
